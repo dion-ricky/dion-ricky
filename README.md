@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello 👋 <br/><br/>My name is Dion Ricky Saputra
 
-<!--
-**dion-ricky/dion-ricky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Below are some of my interesting informations I want to share.<br/>
+This also serves as a short summary of my Github repos contents.
 
-Here are some ideas to get you started:
+<img src="hobbies_callout.svg"/>
+I have a **lot** of hobbies, but here I just want to tell you<br/>
+my hobby related to Computer Science. Those are:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1. Programming
+2. Graphic Design
+3. UI Design
+4. UX Analysis
+5. Embedded System/IoT
+
