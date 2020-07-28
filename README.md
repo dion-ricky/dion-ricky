@@ -3,6 +3,7 @@
 Below are some of my interesting informations I want to share.<br/>
 This also serves as a short summary of my Github repos contents.
 <br/>
+<br/>
 <img src="hobbies_callout.svg"/>
 
 I have a **lot** of hobbies, but here I'm going to tell you<br/>
