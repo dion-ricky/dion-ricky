@@ -28,20 +28,5 @@ Here are some of my skills related to web development:
 5. MySQL, DB2, and nosql DBs
 6. HTML, CSS, and JS
 7. Web UI design
-8. and a bit of web security, since I used to join CTFs competition and have<br/>setup some server with SSL and firewall configuration
 <br/>
 <img src="https://github.com/dion-ricky/dion-ricky/blob/master/interests_callout.svg"/>
-
-And since my skill set is not so loosely scoped, some of my interests are closely related,<br/>in a manner that it is supporting, to my skills.<br/>
-Here are some of my interests:
-
-1. Front-end JS framework
-1. Peer-to-peer file sharing
-1. Web security
-1. Caching
-1. Back-end infrastructure
-1. Writing
-1. Game design
-1. 3D art
-1. Paintings
-1. Poems
