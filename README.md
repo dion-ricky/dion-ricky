@@ -12,7 +12,7 @@ my hobby that are, probably indirectly, related to Computer Science. Those are:
 1. Programming
 2. Graphic Design
 3. UI Design
-4. UX Analysis
+4. UX Design
 5. Embedded System/IoT
 <br/>
 <img src="https://github.com/dion-ricky/dion-ricky/blob/master/skills_callout.svg"/>
