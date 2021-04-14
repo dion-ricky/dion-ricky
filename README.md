@@ -27,6 +27,4 @@ Here are some of my skills related to web development:
 4. PHP
 5. MySQL, DB2, and nosql DBs
 6. HTML, CSS, and JS
-7. Web UI design
-<br/>
-<img src="https://github.com/dion-ricky/dion-ricky/blob/master/interests_callout.svg"/>
+7. Web design
