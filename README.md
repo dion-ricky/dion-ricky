@@ -10,21 +10,8 @@ I have a **lot** of hobbies, but here I'm going to tell you<br/>
 my hobby that are, probably indirectly, related to Computer Science. Those are:
 
 1. Programming
-2. Graphic Design
-3. UI Design
-4. UX Design
-5. Embedded System/IoT
+2. Data Engineer
+3. Data Science
+4. Data Analysis
+6. UI and UX Design 
 <br/>
-<img src="https://github.com/dion-ricky/dion-ricky/blob/master/skills_callout.svg"/>
-
-Currently, my skill is focused a lot on full-stack web development.<br/>
-I might not be a master, yet, but I have the skills required for web dev, and I'm confident about it.<br/>
-Here are some of my skills related to web development:
-
-1. Node.js
-2. Vue.js
-3. React
-4. PHP
-5. MySQL, DB2, and nosql DBs
-6. HTML, CSS, and JS
-7. Web design
